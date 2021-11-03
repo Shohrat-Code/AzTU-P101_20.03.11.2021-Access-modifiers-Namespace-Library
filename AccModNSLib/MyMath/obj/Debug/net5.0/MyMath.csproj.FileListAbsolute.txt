@@ -1,0 +1,12 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\bin\Debug\net5.0\MyMath.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\bin\Debug\net5.0\MyMath.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\bin\Debug\net5.0\ref\MyMath.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\bin\Debug\net5.0\MyMath.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\obj\Debug\net5.0\MyMath.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\obj\Debug\net5.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\obj\Debug\net5.0\MyMath.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\obj\Debug\net5.0\MyMath.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\obj\Debug\net5.0\MyMath.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\obj\Debug\net5.0\MyMath.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\obj\Debug\net5.0\ref\MyMath.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\20.03.11.2021-Access modifiers, Namespace, Library\Codes\AccModNSLib\MyMath\obj\Debug\net5.0\MyMath.pdb

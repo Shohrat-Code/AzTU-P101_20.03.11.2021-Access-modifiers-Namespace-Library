@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccModNSLib", "AccModNSLib\AccModNSLib.csproj", "{5A768807-7354-484B-A74E-2E4174BF2696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{3F6F37FD-FF9C-4198-BB38-847255D37A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{8A1B274F-A552-4F9A-B0B8-A6E8A27C557F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A768807-7354-484B-A74E-2E4174BF2696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A768807-7354-484B-A74E-2E4174BF2696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A768807-7354-484B-A74E-2E4174BF2696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A768807-7354-484B-A74E-2E4174BF2696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6F37FD-FF9C-4198-BB38-847255D37A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6F37FD-FF9C-4198-BB38-847255D37A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6F37FD-FF9C-4198-BB38-847255D37A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6F37FD-FF9C-4198-BB38-847255D37A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1B274F-A552-4F9A-B0B8-A6E8A27C557F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1B274F-A552-4F9A-B0B8-A6E8A27C557F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1B274F-A552-4F9A-B0B8-A6E8A27C557F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1B274F-A552-4F9A-B0B8-A6E8A27C557F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A120495-2AF6-4992-8F77-17AA5C7BA730}
+	EndGlobalSection
+EndGlobal
